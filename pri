@@ -8,5 +8,10 @@ int main(){
     if(n%i==0)
       c++;
   }
+  if(c==2)
+    cout<<"prime no"<<endl;
+   else
+    cout<<"not prime no"<<endl;
+   }
 
 
